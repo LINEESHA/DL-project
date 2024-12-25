@@ -1,0 +1,27 @@
+{
+    "Bud Root Dropping": {
+        "symptoms": "Premature dropping of buds, yellowing and weakening of the bud before falling.",
+        "description": "This condition causes young buds to fall off prematurely, hindering the growth and yield of the plant.",
+        "causes": "Nutrient deficiencies, particularly nitrogen; stress conditions like water imbalance, excessive heat, or pest infestation."
+    },
+    "Bud Rot": {
+        "symptoms": "Soft, mushy buds with discoloration; foul smell from the rotting tissues.",
+        "description": "A disease affecting the growing buds, causing them to decay and prevent further growth.",
+        "causes": "Fungal infections triggered by high humidity and poor ventilation; overwatering or waterlogged soil."
+    },
+    "Gray Leaf Spot": {
+        "symptoms": "Small, gray to brown oval spots on leaves; lesions may merge, leading to leaf blight.",
+        "description": "A fungal disease that causes significant damage to leaves, reducing photosynthetic activity and overall plant health.",
+        "causes": "Fungal infection by Cercospora species; spread through infected plant debris, wind, or water splashes."
+    },
+    "Leaf Rot": {
+        "symptoms": "Yellow or brown patches on leaves; leaves become soft, slimy, and eventually rot.",
+        "description": "A condition where the leaf tissues decompose, impacting the plant's ability to photosynthesize.",
+        "causes": "High moisture levels and fungal or bacterial infections; poor drainage and lack of air circulation."
+    },
+    "Stem Bleeding": {
+        "symptoms": "Dark, sticky fluid oozing from the stem; wilting or yellowing of leaves near the affected area.",
+        "description": "A serious condition where sap or other fluids leak from the stem, weakening the plant.",
+        "causes": "Fungal infections or mechanical injuries; poor plant management, such as overwatering or improper pruning."
+    }
+}
